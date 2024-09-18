@@ -8,16 +8,16 @@ To achieve this, the project will employ Geographic Information System (GIS) sof
 ## Project Management
 
 ### Milestones & Roles:
-- **Data Collection and Cleaning (Week 1-2):** Collect data from NOAA, Maine GeoLibrary, and USGS; clean and process the data.  
-- **Data Analysis (Week 3-4):** Analyze current tide and sea level data, identify trends, and model future predictions.
-- **Visualization Creation (Week 5-6):** Create maps and figures to visualize the flooding impacts on infrastructure and communities under different sea level rise scenarios.
-- **Report and Presentation (Week 7):** Compile findings, complete documentation, and prepare for final presentation.
+- **Data Collection and Cleaning (Week 1):** Collect data from NOAA, Maine GeoLibrary, and USGS; clean and process the data.  
+- **Data Analysis (Week 2-3):** Analyze current tide and sea level data, identify trends, and model future predictions.
+- **Visualization Creation (Week 4):** Create maps and figures to visualize the flooding impacts on infrastructure and communities under different sea level rise scenarios.
+- **Report and Presentation (Week 5):** Compile findings, complete documentation, and prepare for final presentation.
 
 ### Timeline:
-- **Week 1-2:** Data collection and cleaning
-- **Week 3-4:** Data analysis and trend modeling
-- **Week 5-6:** Visualization and interactive model creation
-- **Week 7:** Documentation, report writing, and final presentation
+- **Week 1:** Data collection and cleaning
+- **Week 2-3:** Data analysis and trend modeling
+- **Week 4:** Visualization and interactive model creation
+- **Week 5:** Documentation, report writing, and final presentation
 
 ### Risks:
 - **Data Availability:** Incomplete or outdated data could delay the project. I'll mitigate this by using multiple data sources.
